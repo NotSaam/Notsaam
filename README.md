@@ -1,6 +1,7 @@
 ### Hi, I'm Samuel Fuentes,a web developer 👨🏽‍💻👋🏽
 
-<!--
+<!--![Samuel Fuentes](https://github.com/NotSaam/Notsaam/assets/140619832/4f992464-9e36-4fed-a834-6b6554afc13e)
+
 **NotSaam/Notsaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
