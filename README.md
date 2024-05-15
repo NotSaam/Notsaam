@@ -22,6 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
+## Work to feed the snake☕:
 <hr>
 <p align="center">
   <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
