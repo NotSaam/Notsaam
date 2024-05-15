@@ -8,7 +8,7 @@
 
 
 ### Connect with me🌎:
-<a href="https://www.instagram.com/notsamarket">
+<a  target='_blank' href="https://www.instagram.com/notsamarket">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="30" height="30">
 </a><br>
 
