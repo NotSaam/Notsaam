@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Samuel Fuentes,a web developer 👨🏽‍💻👋🏽
 
 <!--
 **NotSaam/Notsaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
