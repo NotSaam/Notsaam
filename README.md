@@ -1,22 +1,18 @@
-![linkedin (1)](https://github.com/NotSaam/Notsaam/assets/140619832/41307827-5e61-4b40-a885-5026a4438a7f)### Hi, I'm Samuel Fuentes,a web developer 👨🏽‍💻👋🏽
+### Hi, I'm Samuel Fuentes,a web developer 👨🏽‍💻👋🏽
 
 ![Samuel Fuentes](https://github.com/NotSaam/Notsaam/assets/140619832/4f992464-9e36-4fed-a834-6b6554afc13e)
 
-![Uploadin<svg enable-background="new 0 0 1024 1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg"><circle cx="512" cy="512" fill="#0a66c2" r="512"/><path d="m693.1 693.2h-76v-119c0-28.4-.6-64.9-39.6-64.9-39.6 0-45.7 30.9-45.7 62.8v121.1h-76v-244.8h73v33.4h1c10.2-19.2 35-39.5 72-39.5 77 0 91.2 50.7 91.2 116.6zm-323-278.3c-24.5 0-44.1-19.8-44.1-44.1s19.7-44.1 44.1-44.1 44.1 19.8 44.1 44.1-19.8 44.1-44.1 44.1zm38.1 278.3h-76.2v-244.8h76.2zm322.9-437.2h-437.2c-20.9 0-37.9 16.5-37.9 37v439c0 20.4 16.9 37 37.9 37h437.1c20.9 0 38-16.5 38-37v-439c0-20.5-17.1-37-37.9-37z" fill="#fff"/></svg>g linkedin (1).svg…]()
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="[https://twitter.com/](https://twitter.com/notsamarket)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Samuel Fuentes" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/samuel-fuentes-84488b225/)"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Samuel Fuentes" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<hr>
+<p align="center">
+  <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
-<!--
-**NotSaam/Notsaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
