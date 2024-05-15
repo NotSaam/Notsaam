@@ -18,7 +18,7 @@
 <a href="https://twitter.com/notsamarket">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="30" height="30">
 </a>
-<a href="[https://www.linkedin.com/in/www.linkedin.com/in/NotSaam](https://www.linkedin.com/in/notsaam/)">
+<a href="https://www.linkedin.com/in/notsaam/)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
