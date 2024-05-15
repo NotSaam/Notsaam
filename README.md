@@ -8,15 +8,16 @@
 
 
 ### Connect with me🌎:
-<a href="https://www.instagram.com/notsamarket" target="_blank">
+<a href="https://www.instagram.com/notsamarket">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="30" height="30">
-</a>
-<a href="https://twitter.com/notsamarket" target="_blank">
+</a><br>
+
+<a href="https://twitter.com/notsamarket">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="30" height="30">
-</a>
-<a href="https://www.linkedin.com/in/your_username" target="_blank">
+</a><br>
+<a href="https://www.linkedin.com/in/your_username">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30">
-</a>
+</a><br>
 
 <hr>
 <p align="center">
