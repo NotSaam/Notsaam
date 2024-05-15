@@ -18,7 +18,7 @@
 <a href="https://twitter.com/notsamarket">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="30" height="30">
 </a>
-<a href="https://www.linkedin.com/in/samuel-fuentes-84488b225?originalSubdomain=es&original_referer=https%3A%2F%2Fwww.google.com%2F">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/NotSaam">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
