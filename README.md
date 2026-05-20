@@ -1,7 +1,7 @@
-## Hi, I'm Samuel Fuentes,a web developer 👨🏽‍💻👋🏽
-<!--
+## Hi, I'm Samuel Fuentes,a web developer now learning on Cyber & IA 👨🏽‍💻👋🏽
+
 ![Samuel Fuentes](https://github.com/NotSaam/Notsaam/assets/140619832/4f992464-9e36-4fed-a834-6b6554afc13e)
--->
+
 
 - 🔭 I am currently working on the development of an AI program for soccer analysis
   
