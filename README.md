@@ -78,12 +78,17 @@ Plataforma full-stack que **analiza partidos de fútbol con IA**: subes el víde
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NotSaam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" height="165"/>
+![Profile views](https://komarev.com/ghpvc/?username=NotSaam&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/NotSaam?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/NotSaam?tab=followers)
 
-<img src="https://streak-stats.demolab.com/?user=NotSaam&theme=tokyonight&hide_border=true" alt="Streak" width="70%"/>
+**Proyectos públicos**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSaam&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+[![FlakAI](https://img.shields.io/github/last-commit/NotSaam/FlakAI?style=flat-square&color=a78bfa&label=FlakAI%20%C2%B7%20%C3%BAltimo%20commit)](https://github.com/NotSaam/FlakAI)
+[![FlakAI lang](https://img.shields.io/github/languages/top/NotSaam/FlakAI?style=flat-square&color=a78bfa&label=lenguaje)](https://github.com/NotSaam/FlakAI)
+[![FLK0S](https://img.shields.io/github/last-commit/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&label=FLK0S%20%C2%B7%20%C3%BAltimo%20commit)](https://github.com/NotSaam/FLK0S-Ecosystem)
+[![FLK0S lang](https://img.shields.io/github/languages/top/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&label=lenguaje)](https://github.com/NotSaam/FLK0S-Ecosystem)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSaam&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Gráfico de actividad" width="95%"/>
 
 </div>
 
