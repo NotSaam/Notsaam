@@ -28,6 +28,10 @@ Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** ba
 > **SSO único + MFA + RBAC**, multi-tenant, ticketing unificado, datos en vivo y observabilidad e2e.
 > **Stack:** Next.js 14 · FastAPI · PostgreSQL · Docker · OpenTelemetry.
 
+[![Stars](https://img.shields.io/github/stars/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&logo=github&label=stars)](https://github.com/NotSaam/FLK0S-Ecosystem/stargazers)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=NotSaam.FLK0S-Ecosystem&label=views&color=22d3ee)
+[![Last commit](https://img.shields.io/github/last-commit/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&label=%C3%BAltimo%20commit)](https://github.com/NotSaam/FLK0S-Ecosystem)
+
 **👉 [Ver FLK0S](https://github.com/NotSaam/FLK0S-Ecosystem)**
 
 <br/>
@@ -44,6 +48,10 @@ Plataforma full-stack que **analiza partidos de fútbol con IA**: subes el víde
 > API REST, autenticación, multi-equipo, facturación con **Stripe** y un bucle de entrenamiento
 > *human-in-the-loop* que mejora el modelo con el uso.
 > **Stack:** Python · FastAPI · Next.js 14 · PyTorch · ONNX · FFmpeg · PostgreSQL.
+
+[![Stars](https://img.shields.io/github/stars/NotSaam/FlakAI?style=flat-square&color=a78bfa&logo=github&label=stars)](https://github.com/NotSaam/FlakAI/stargazers)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=NotSaam.FlakAI&label=views&color=a78bfa)
+[![Last commit](https://img.shields.io/github/last-commit/NotSaam/FlakAI?style=flat-square&color=a78bfa&label=%C3%BAltimo%20commit)](https://github.com/NotSaam/FlakAI)
 
 **👉 [Ver FlakAI](https://github.com/NotSaam/FlakAI)**
 
@@ -80,13 +88,6 @@ Plataforma full-stack que **analiza partidos de fútbol con IA**: subes el víde
 
 ![Profile views](https://komarev.com/ghpvc/?username=NotSaam&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/NotSaam?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/NotSaam?tab=followers)
-
-**Proyectos públicos**
-
-[![FlakAI](https://img.shields.io/github/last-commit/NotSaam/FlakAI?style=flat-square&color=a78bfa&label=FlakAI%20%C2%B7%20%C3%BAltimo%20commit)](https://github.com/NotSaam/FlakAI)
-[![FlakAI lang](https://img.shields.io/github/languages/top/NotSaam/FlakAI?style=flat-square&color=a78bfa&label=lenguaje)](https://github.com/NotSaam/FlakAI)
-[![FLK0S](https://img.shields.io/github/last-commit/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&label=FLK0S%20%C2%B7%20%C3%BAltimo%20commit)](https://github.com/NotSaam/FLK0S-Ecosystem)
-[![FLK0S lang](https://img.shields.io/github/languages/top/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&label=lenguaje)](https://github.com/NotSaam/FLK0S-Ecosystem)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSaam&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Gráfico de actividad" width="95%"/>
 
