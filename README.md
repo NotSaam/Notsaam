@@ -7,7 +7,6 @@
 Construyo plataformas completas de extremo a extremo — frontend, backend, IA, seguridad e infraestructura.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flako-dev.vercel.app/)
-[![Flako](https://img.shields.io/badge/Flako-flako--dev.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://flako-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-notsaam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notsaam)
 [![Email](https://img.shields.io/badge/Email-samufuentesp-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samufuentesp@gmail.com)
 
