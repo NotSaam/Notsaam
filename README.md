@@ -50,27 +50,6 @@ Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** ba
 
 **👉 [Ver FLK0S](https://github.com/NotSaam/FLK0S-Ecosystem)**
 
-<br/>
-
-### ⚽ FlakAI — Análisis de fútbol con IA
-
-Plataforma full-stack que **analiza partidos de fútbol con IA**: subes el vídeo y recibes los clips de cada evento (goles, córners, faltas, saques…) clasificados automáticamente.
-
-<a href="https://github.com/NotSaam/FlakAI">
-  <img src="https://raw.githubusercontent.com/NotSaam/FlakAI/main/docs/screenshots/01-dashboard.png" alt="FlakAI — Dashboard" width="100%"/>
-</a>
-
-> Detección de eventos con visión por computador (**PyTorch / ONNX**), recorte de clips con **FFmpeg**,
-> API REST, autenticación, multi-equipo, facturación con **Stripe** y un bucle de entrenamiento
-> *human-in-the-loop* que mejora el modelo con el uso.
-> **Stack:** Python · FastAPI · Next.js 14 · PyTorch · ONNX · FFmpeg · PostgreSQL.
-
-[![Stars](https://img.shields.io/github/stars/NotSaam/FlakAI?style=flat-square&color=a78bfa&logo=github&label=stars)](https://github.com/NotSaam/FlakAI/stargazers)
-![Views](https://visitor-badge.laobi.icu/badge?page_id=NotSaam.FlakAI&label=views&color=a78bfa)
-[![Last commit](https://img.shields.io/github/last-commit/NotSaam/FlakAI?style=flat-square&color=a78bfa&label=%C3%BAltimo%20commit)](https://github.com/NotSaam/FlakAI)
-
-**👉 [Ver FlakAI](https://github.com/NotSaam/FlakAI)**
-
 ---
 
 ## 🛠️ Tecnologías
