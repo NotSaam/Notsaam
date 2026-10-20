@@ -16,6 +16,22 @@ Construyo plataformas completas de extremo a extremo — frontend, backend, IA, 
 
 ## 🚀 Proyectos destacados
 
+### ⚽ KAIR0S — Rendimiento y vídeo para equipos de fútbol
+
+La app que junta en un solo sitio lo que un cuerpo técnico cruza cada semana en hojas de cálculo: **GPS, carga (sRPE y ACWR), wellness, asistencia, partidos, lesiones, alineaciones y vídeo**. La plantilla registra su wellness y su esfuerzo desde el móvil en segundos; el staff lo trabaja desde el iPad o el ordenador.
+
+<a href="https://github.com/NotSaam/kair0s-showcase">
+  <img src="https://raw.githubusercontent.com/NotSaam/kair0s-showcase/main/assets/marca/banner-kair0s.png" alt="KAIR0S — el panel de carga, lesiones y vídeo de tu equipo de fútbol" width="100%"/>
+</a>
+
+> Producto propio, en producción en **[kair0s.es](https://kair0s.es/r/web)**: app web instalable (PWA), datos de cada club aislados en la base de datos, alojamiento en la UE y arte 3D en Blender para la web pública.
+> **561 commits y más de 4.800 tests automatizados.**
+> **Stack:** Next.js · TypeScript · Supabase (Postgres + RLS) · Python/FastAPI · FFmpeg · Docker · Blender.
+
+**👉 [Ver el escaparate de KAIR0S](https://github.com/NotSaam/kair0s-showcase)** · **[kair0s.es](https://kair0s.es/r/web)** · **[Instagram](https://kair0s.es/r/instagram)**
+
+<br/>
+
 ### 🛡️ FLK0S — Cybersecurity Operations Platform
 
 Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** bajo un único inicio de sesión.
@@ -67,9 +83,11 @@ Plataforma full-stack que **analiza partidos de fútbol con IA**: subes el víde
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
@@ -89,7 +107,7 @@ Plataforma full-stack que **analiza partidos de fútbol con IA**: subes el víde
 ![Profile views](https://komarev.com/ghpvc/?username=NotSaam&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/NotSaam?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/NotSaam?tab=followers)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSaam&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Gráfico de actividad" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=NotSaam&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" width="80%"/>
 
 </div>
 
