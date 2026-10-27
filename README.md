@@ -32,12 +32,12 @@ La app que junta en un solo sitio lo que un cuerpo técnico cruza cada semana en
 
 <br/>
 
-### 🛡️ FLK0S — Cybersecurity Operations Platform
+### 🛡️ PHAR0S — Cybersecurity Operations Platform
 
-Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** bajo un único inicio de sesión.
+Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** bajo un único inicio de sesión. *(Antes se llamaba FLK0S.)*
 
 <a href="https://github.com/NotSaam/FLK0S-Ecosystem">
-  <img src="https://raw.githubusercontent.com/NotSaam/FLK0S-Ecosystem/main/screenshots/hub-overview.png" alt="FLK0S — Centro de Operaciones" width="100%"/>
+  <img src="https://raw.githubusercontent.com/NotSaam/FLK0S-Ecosystem/main/screenshots/hub-overview.png" alt="PHAR0S — Centro de Operaciones" width="100%"/>
 </a>
 
 > Ecosistema de **6 servicios** (Hub + Auth Gateway + 4 módulos) diseñado y desarrollado end-to-end:
@@ -48,7 +48,26 @@ Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** ba
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=NotSaam.FLK0S-Ecosystem&label=views&color=22d3ee)
 [![Last commit](https://img.shields.io/github/last-commit/NotSaam/FLK0S-Ecosystem?style=flat-square&color=22d3ee&label=%C3%BAltimo%20commit)](https://github.com/NotSaam/FLK0S-Ecosystem)
 
-**👉 [Ver FLK0S](https://github.com/NotSaam/FLK0S-Ecosystem)**
+**👉 [Ver PHAR0S](https://github.com/NotSaam/FLK0S-Ecosystem)**
+
+<br/>
+
+### 📅 Reserva de clases con profesores
+
+Las familias eligen asignatura, franja libre y modalidad (online o presencial) en un asistente paso a paso; el profesor acepta o rechaza desde su panel y cada paso llega por email. Control transaccional contra dobles reservas.
+
+> **Stack:** Next.js 16 · TypeScript · Prisma · Auth.js · Zod · Tailwind.
+
+<br/>
+
+### 🖥️ Flak0S — el proyecto soñado
+
+Mi propio sistema operativo de escritorio, hecho a mi gusto y optimizado: escritorio FLK sobre Wayland, servicios del sistema en **Rust** (broker D-Bus con Polkit, actualizaciones y snapshots Btrfs con rollback) y apps propias. Pensado para ir fluido desde 4 GB de RAM.
+
+> **En desarrollo:** cimientos y servicios del sistema terminados; ahora, el escritorio (hito 2 de 7).
+> **Stack:** Rust · Wayland · Btrfs · D-Bus · Tauri.
+
+**👉 [Ver todos los proyectos con sus demos en mi portfolio](https://flako-dev.vercel.app/)**
 
 ---
 
@@ -67,6 +86,7 @@ Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** ba
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
