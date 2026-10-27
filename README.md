@@ -52,7 +52,7 @@ Una plataforma que unifica **Blue Team, Red Team, agentes de IA y reporting** ba
 
 <br/>
 
-### 📅 Reserva de clases con profesores
+### 📅 MENT0R — Reserva de clases con profesores
 
 Las familias eligen asignatura, franja libre y modalidad (online o presencial) en un asistente paso a paso; el profesor acepta o rechaza desde su panel y cada paso llega por email. Control transaccional contra dobles reservas.
 
