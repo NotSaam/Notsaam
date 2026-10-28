@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Samuel «Flako» Fuentes — Full-Stack Engineer · IA · Ciberseguridad">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <radialGradient id="gT" cx="78%" cy="30%" r="45%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gV" cx="18%" cy="95%" r="50%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2dd4bf" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f4f4f5"/>
+      <stop offset=".55" stop-color="#e4e4e7"/>
+      <stop offset="1" stop-color="#a1a1aa"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="18"/></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .disp{font-family:'Space Grotesk','Segoe UI',Inter,Helvetica,Arial,sans-serif}
+      .glowT{animation:pulse 6s ease-in-out infinite}
+      .glowV{animation:pulse 7s ease-in-out infinite reverse}
+      @keyframes pulse{0%,100%{opacity:.65}50%{opacity:1}}
+      .scan{animation:scan 5.5s linear infinite}
+      @keyframes scan{from{transform:translateY(-140px)}to{transform:translateY(380px)}}
+      .caret{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .zero{animation:flick 4.2s infinite}
+      @keyframes flick{0%,88%,100%{opacity:1}90%{opacity:.25}92%{opacity:1}94%{opacity:.4}}
+      .ticker{animation:tick 26s linear infinite}
+      @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-888px)}}
+      .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+      .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}.d4{animation-delay:.75s}
+      @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+      .dot{animation:pulse 1.8s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#06060a"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect class="glowT" width="1200" height="360" fill="url(#gT)"/>
+    <rect class="glowV" width="1200" height="360" fill="url(#gV)"/>
+    <rect class="scan" x="0" y="0" width="1200" height="120" fill="url(#scan)"/>
+
+    <!-- HUD -->
+    <g stroke="#2dd4bf" stroke-width="2" fill="none" stroke-opacity=".9">
+      <path d="M28 52V28H52"/><path d="M1148 28H1172V52"/>
+      <path d="M28 308V332H52"/><path d="M1172 308V332H1148"/>
+    </g>
+    <g class="mono" font-size="12" letter-spacing="3" fill="#71717a">
+      <text x="64" y="44">SYS://NOTSAAM</text>
+      <text x="1136" y="44" text-anchor="end">PORTFOLIO · 2026</text>
+    </g>
+
+    <!-- status -->
+    <g class="rise d1">
+      <rect x="64" y="78" width="268" height="30" rx="15" fill="#2dd4bf" fill-opacity=".08" stroke="#2dd4bf" stroke-opacity=".35"/>
+      <circle class="dot" cx="84" cy="93" r="4.5" fill="#2dd4bf"/>
+      <text class="mono" x="98" y="97.5" font-size="12" letter-spacing="2.4" fill="#99f6e4">DISPONIBLE · OPEN TO WORK</text>
+    </g>
+
+    <!-- name -->
+    <g class="rise d2">
+      <text class="disp" x="60" y="190" font-size="84" font-weight="700" letter-spacing="-3" fill="url(#txt)">Samuel Fuentes</text>
+    </g>
+    <g class="rise d3">
+      <text class="mono" x="66" y="232" font-size="20" fill="#a1a1aa">aka <tspan fill="#f4f4f5" font-weight="700">FLAK<tspan class="zero" fill="#2dd4bf">0</tspan></tspan>  <tspan fill="#52525b">//</tspan>  Full-Stack Engineer · <tspan fill="#2dd4bf">IA</tspan> · <tspan fill="#a78bfa">Ciberseguridad</tspan><tspan class="caret" fill="#2dd4bf"> ▍</tspan></text>
+    </g>
+
+    <!-- terminal card -->
+    <g transform="translate(840 82)"><g class="rise d4">
+      <rect width="296" height="170" rx="12" fill="#0b0b12" fill-opacity=".92" stroke="#ffffff" stroke-opacity=".09"/>
+      <circle cx="20" cy="20" r="5" fill="#ff5f57"/><circle cx="38" cy="20" r="5" fill="#febc2e"/><circle cx="56" cy="20" r="5" fill="#28c840"/>
+      <text class="mono" x="282" y="24" font-size="10" letter-spacing="2" fill="#52525b" text-anchor="end">~/flako</text>
+      <g class="mono" font-size="13">
+        <text x="18" y="58" fill="#2dd4bf">$ <tspan fill="#e4e4e7">whoami --stack</tspan></text>
+        <text x="18" y="84" fill="#a1a1aa">front<tspan x="70" fill="#e4e4e7">React · Next · Vue</tspan></text>
+        <text x="18" y="106" fill="#a1a1aa">back<tspan x="70" fill="#e4e4e7">FastAPI · Laravel</tspan></text>
+        <text x="18" y="128" fill="#a1a1aa">data<tspan x="70" fill="#e4e4e7">Postgres · Redis</tspan></text>
+        <text x="18" y="150" fill="#a1a1aa">sec<tspan x="70" fill="#a78bfa">SSO · RBAC · CVSS</tspan></text>
+      </g>
+    </g></g>
+
+    <!-- ticker -->
+    <line x1="0" y1="284" x2="1200" y2="284" stroke="#ffffff" stroke-opacity=".07"/>
+    <g class="ticker disp" font-size="22" font-weight="700" letter-spacing="4" fill="#3f3f46">
+      <text x="64" y="320">KAIR<tspan fill="#2dd4bf">0</tspan>S  ✦  KRIT<tspan fill="#2dd4bf">0</tspan>S  ✦  SYNK<tspan fill="#2dd4bf">0</tspan>S  ✦  PHAR<tspan fill="#a78bfa">0</tspan>S  ✦  MENT<tspan fill="#2dd4bf">0</tspan>R  ✦  FLAK<tspan fill="#a78bfa">0</tspan>S  ✦</text>
+      <text x="952" y="320">KAIR<tspan fill="#2dd4bf">0</tspan>S  ✦  KRIT<tspan fill="#2dd4bf">0</tspan>S  ✦  SYNK<tspan fill="#2dd4bf">0</tspan>S  ✦  PHAR<tspan fill="#a78bfa">0</tspan>S  ✦  MENT<tspan fill="#2dd4bf">0</tspan>R  ✦  FLAK<tspan fill="#a78bfa">0</tspan>S  ✦</text>
+      <text x="1840" y="320">KAIR<tspan fill="#2dd4bf">0</tspan>S  ✦  KRIT<tspan fill="#2dd4bf">0</tspan>S  ✦  SYNK<tspan fill="#2dd4bf">0</tspan>S  ✦  PHAR<tspan fill="#a78bfa">0</tspan>S  ✦  MENT<tspan fill="#2dd4bf">0</tspan>R  ✦  FLAK<tspan fill="#a78bfa">0</tspan>S  ✦</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="359" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>

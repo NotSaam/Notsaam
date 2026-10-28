@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Con qué trabajo">
+  <style>
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .d{font-family:'Space Grotesk','Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .run{animation:run 3.2s cubic-bezier(.6,0,.2,1) infinite}
+    @keyframes run{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(830px);opacity:0}}
+    .blink{animation:b 1.1s steps(1) infinite} @keyframes b{50%{opacity:.2}}
+  </style>
+  <path d="M2 18V2H18" fill="none" stroke="#8b5cf6" stroke-width="2"/>
+  <text class="m" x="30" y="22" font-size="12" letter-spacing="3" fill="#8b5cf6">02 <tspan fill="#71717a">//</tspan> <tspan fill="#a1a1aa">STACK</tspan></text>
+  <text class="d" x="28" y="58" font-size="30" font-weight="700" letter-spacing="-.5" fill="#f4f4f5">Con qué trabajo</text>
+  <line x1="290" y1="48" x2="1180" y2="48" stroke="#ffffff" stroke-opacity=".10"/>
+  <rect class="run" x="290" y="47" width="60" height="2" fill="#8b5cf6"/>
+  <rect class="blink" x="1180" y="44" width="10" height="10" fill="#8b5cf6"/>
+</svg>
