@@ -4,7 +4,7 @@
   <img src="assets/header.svg" alt="Samuel «Flako» Fuentes · Full-Stack Engineer · IA · Ciberseguridad" width="100%"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&height=28&lines=construyo+plataformas+completas%3A+del+modelo+de+datos+a+la+UI;seguridad+de+serie%3A+SSO%2C+MFA%2C+RBAC%2C+RLS+y+auditor%C3%ADa;IA+aplicada%3A+visi%C3%B3n+por+computador%2C+agentes+y+RAG;6+productos+propios%2C+uno+de+ellos+en+producci%C3%B3n" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&height=28&lines=construyo+plataformas+completas%3A+del+modelo+de+datos+a+la+UI;seguridad+de+serie%3A+SSO%2C+MFA%2C+RBAC%2C+RLS+y+auditor%C3%ADa;IA+aplicada%3A+visi%C3%B3n+por+computador%2C+agentes+y+RAG;9+productos+propios%2C+KAIR0S+ya+en+producci%C3%B3n" alt="Typing SVG"/>
 
 <br/>
 
@@ -46,7 +46,7 @@ Los jugadores responden RPE y wellness desde el móvil, el staff importa el GPS 
 ![PWA](https://img.shields.io/badge/PWA-06060a?style=flat-square&logo=pwa)
 ![Blender](https://img.shields.io/badge/Blender-06060a?style=flat-square&logo=blender)
 
-**[→ kair0s.es](https://kair0s.es/r/web)** &nbsp;·&nbsp; **[escaparate](https://github.com/NotSaam/kair0s-showcase)** &nbsp;·&nbsp; 561 commits · +4.800 tests
+**[→ kair0s.es](https://kair0s.es/r/web)** &nbsp;·&nbsp; **[escaparate](https://github.com/NotSaam/kair0s-showcase)** &nbsp;·&nbsp; 611 commits · +4.800 tests
 
 <br/>
 
@@ -73,6 +73,37 @@ Proyectos con alcance y equipo, hallazgos puntuados con CVSS 3.1 que **el servid
 ![Docker](https://img.shields.io/badge/Docker-06060a?style=flat-square&logo=docker)
 
 **[→ krit0s.vercel.app](https://krit0s.vercel.app)** &nbsp;·&nbsp; **[código](https://github.com/NotSaam/KRIT0S)**
+
+<br/>
+
+<!-- ─────────────── KYB0S ─────────────── -->
+
+<a href="https://github.com/NotSaam/kyb0s-showcase">
+  <img src="https://raw.githubusercontent.com/NotSaam/kyb0s-showcase/main/assets/arte/hero.webp" alt="KYB0S" width="100%"/>
+</a>
+
+### 🎲 KYB0S &nbsp;·&nbsp; <sub>`casino social · provably fair` &nbsp; 🟠 en desarrollo</sub>
+
+**«Fíate de la casa» → cada tirada se puede comprobar con matemáticas públicas.**
+
+Doce juegos (Crash multijugador en tiempo real, Dice, Mines, Plinko, Ruleta…) con fichas que no valen nada. Antes de apostar, el servidor publica el hash SHA-256 de su semilla; el resultado sale de un HMAC público y el verificador lo recalcula paso a paso en tu navegador. Motor con WebSocket de tickets de un solo uso, libro de doble partida, juego responsable con límites y autoexclusión, y arte 3D propio en Blender.
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/NotSaam/kyb0s-showcase/main/assets/app/fair-dice-1440.png" alt="KYB0S · verificador provably fair"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/NotSaam/kyb0s-showcase/main/assets/arte/juegos-3d.png" alt="KYB0S · arte 3D de los juegos"/></td>
+  </tr>
+</table>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-06060a?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-06060a?style=flat-square&logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-06060a?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-06060a?style=flat-square&logo=redis)
+![WebSocket](https://img.shields.io/badge/WebSocket-06060a?style=flat-square&logo=socketdotio)
+![Playwright](https://img.shields.io/badge/Playwright-06060a?style=flat-square&logo=playwright)
+![Blender](https://img.shields.io/badge/Blender-06060a?style=flat-square&logo=blender)
+
+**[escaparate](https://github.com/NotSaam/kyb0s-showcase)**
 
 <br/>
 
@@ -117,6 +148,26 @@ Proyectos con alcance y equipo, hallazgos puntuados con CVSS 3.1 que **el servid
       <p>Escritorio FLK sobre Wayland, servicios en Rust (broker D-Bus con Polkit, actualizaciones con snapshots Btrfs y rollback) y apps propias. Fluido desde 4 GB de RAM.</p>
       <p><code>Rust</code> <code>Wayland</code> <code>Btrfs</code> <code>Tauri</code></p>
       <p><code>▰▰▰▱▱▱▱</code> hito 2 de 7 · escritorio</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NotSaam/grafik0s-showcase"><img src="https://raw.githubusercontent.com/NotSaam/grafik0s-showcase/main/assets/app/panel-1440.png" alt="GRAFIK0S"/></a>
+      <h3>📈 GRAFIK0S</h3>
+      <sub><code>trading automático · MT5</code> &nbsp; 🟠 en pruebas en demo</sub>
+      <p><b>Perder una cuenta de fondeo por saltarte una norma → un bot que las respeta todas, cuenta a cuenta.</b></p>
+      <p>Un proceso y una terminal MetaTrader 5 por cuenta, gestor de riesgo con las normas de cada firma y fase, bloqueo por noticias de alto impacto y backtest que simula si habrías aprobado el examen.</p>
+      <p><code>Python</code> <code>MetaTrader 5</code> <code>FastAPI</code> <code>HTMX</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/NotSaam/grafik0s-showcase"><b>→ escaparate</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://pont0s.vercel.app"><img src="assets/projects/pont0s.png" alt="PONT0S"/></a>
+      <h3>🌊 PONT0S</h3>
+      <sub><code>web · open source</code> &nbsp; 🟢 en vivo</sub>
+      <p><b>Mirar cinco webs antes de ir a la playa → la costa de Galicia en directo en una sola.</b></p>
+      <p>38 cámaras en 32 puntos de Ribadeo a A Guarda, con tiempo, olas, marea y temperatura del agua de cada sitio. En español y gallego, sin cookies ni servidor.</p>
+      <p><code>Astro</code> <code>Open-Meteo</code> <code>MeteoGalicia</code></p>
+      <p><a href="https://pont0s.vercel.app"><b>→ web</b></a> · <a href="https://github.com/NotSaam/PONT0S"><b>código</b></a></p>
     </td>
   </tr>
 </table>
