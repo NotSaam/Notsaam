@@ -138,7 +138,7 @@ Doce juegos (Crash multijugador en tiempo real, Dice, Mines, Plinko, Ruleta…) 
       <p><b>Cuadrar horarios profe–familia por chat → reservas con disponibilidad real y confirmación al instante.</b></p>
       <p>Asistente paso a paso con asignatura, franja y modalidad; el profesor acepta desde su panel y cada paso llega por email. Transacciones contra dobles reservas.</p>
       <p><code>Next.js 16</code> <code>Prisma</code> <code>Auth.js</code> <code>Zod</code></p>
-      <p><a href="https://flako-dev.vercel.app/#proyectos"><b>→ demo interactiva</b></a></p>
+      <p><a href="https://flako-dev.vercel.app/#proyectos"><b>→ demo interactiva</b></a> · <a href="https://github.com/NotSaam/ment0r-showcase"><b>escaparate</b></a></p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/flak0s-demo.png" alt="Flak0S"/>
